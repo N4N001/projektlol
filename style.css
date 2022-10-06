@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    
+}
+header{
+    padding-top: 1px;
+    background-color: rgb(22, 12, 150);
+    position: relative;
+    color: white;
+    text-align: center;
+    padding-bottom: 0.1%;
+    font-size: 20px;
+    width: 100%;
+}
+#susmail{
+    background-color: rgb(103, 232, 255);
+    width: 55%;
+    height: 10%;
+    margin-left: 1%;
+    border-style: solid;
+    margin-top: 1%;
+    float: left;
+}
+#susmail h2{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 0px;
+    padding-left: 1%;
+    font-size: 30px;
+}
+#susmail h3{
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-left: 1%;
+    font-size: 25px;
+}
+#susmail p{
+    margin-top: 1%;
+    font-size: 20px;
+    padding-left: 1%;
+    margin-bottom: 0;
+}
+#susmail ul{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+#susmail h3 firs{
+    margin-top: 3%;
+}
