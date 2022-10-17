@@ -30,6 +30,3 @@ Podvodná technika snažící se získat citlivé údaje jak např.
     citlivé informace
 Phising emaily se snaží působit, jako emaily od důvěryhodných zdrojů (banka, paypal, google, facebook).
 Většinou je vytvořen i web, který vypadá jako pravý, ale ukradne vámi zadané údaje.
-
-SPAM
-Nevyžádaná
