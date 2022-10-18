@@ -5,28 +5,23 @@ Susmail
         
 Susoubory
     -malwave
-    -spyware
     -ransomware
     -trojan
     -adware
     -rootkit
-    -adware
     -crimeware
+        -adware
+        -spyware
+    -cryptojacking
 
 Zabezpečení účtů
     -2FA
     -bezpečnost hesla(https://www.passwordmonster.com/)
 
-Zabezpečení
+Zabezpečení zařízení
     -public wifi
     -killerflash
 
-
-
-PHISHING
-Podvodná technika snažící se získat citlivé údaje jak např.
-    hesla
-    bankovní údaje
-    citlivé informace
-Phising emaily se snaží působit, jako emaily od důvěryhodných zdrojů (banka, paypal, google, facebook).
-Většinou je vytvořen i web, který vypadá jako pravý, ale ukradne vámi zadané údaje.
+Viry a nebezpečné soubory
+    Viry jsou škodlivé, nebo nechtěné programy, šířící se zařízením bez vědomí uživatele. Většinou jsou vkládány do spustitelných souborů (nejčastěji s koncovkou .exe, .apk), nebo do dokumentů. 
+    Existuje velké množství druhů počítačových virů, od otravných - například adware, které téměř neuškodí, až po ty, které dokážou sledovat a nebo ničit systém. 
