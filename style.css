@@ -1,9 +1,14 @@
 body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     color: white;
     margin: 0;
     background-color: rgb(15, 8, 65);
 }
 header{
+    border-style: solid;
+    border-left: 0;
+    border-right: 0;
+    border-color: blue;
     padding-top: 1px;
     background-color: rgb(22, 12, 150);
     position: relative;
@@ -14,6 +19,8 @@ header{
     width: 100%;
 }
 #susmail{
+    border-color: blue;
+    border-radius: 25px;
     background-color: rgba(26, 48, 191, 0.226);
     width: 55%;
     height: 10%;
@@ -49,6 +56,8 @@ h3{
 
 
 #susoubory{
+    border-color: blue;
+    border-radius: 25px;
     background-color: rgba(26, 48, 191, 0.226);
     width: 41%;
     height: 10%;
